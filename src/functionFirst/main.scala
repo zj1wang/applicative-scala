@@ -1,7 +1,7 @@
 package functionFirst
 
 import com.sun.tools.internal.xjc.reader.Ring.add
-import functionFirst.FunctionFirst.{fun1, fun2, fun3}
+import functionFirst.FunctionFirst.{fun1, fun2, fun3, list}
 
 object main {
   def main(args: Array[String]): Unit = {
